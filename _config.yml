@@ -1,0 +1,21 @@
+source: source
+
+title: Sofia & João
+description: > # this means to ignore newlines
+  Sofia & João
+
+plainwhite:
+  name: Sofia & João
+  portfolio_image: "assets/portfolio.webp"
+  tagline: |
+    2022.8.14
+  date_format: "%Y-%m-%d"
+  navigation:
+    - title: Slovenčina
+      url: '/sk'
+    - title: Português
+      url: '/pt'
+    - title: English
+      url: '/en'
+
+theme: plainwhite
